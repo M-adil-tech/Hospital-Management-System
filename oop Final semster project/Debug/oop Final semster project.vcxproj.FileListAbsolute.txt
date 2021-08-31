@@ -1,0 +1,2 @@
+C:\Users\hs\source\repos\oop Final semster project\Debug\oop Final semster project.exe
+C:\Users\hs\source\repos\oop Final semster project\Debug\oop Final semster project.pdb
